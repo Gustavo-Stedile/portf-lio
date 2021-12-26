@@ -15,7 +15,7 @@
     background: #5c5c5c;
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 660px) {
     #main-title {
         font-size: 30pt;
     }
