@@ -15,6 +15,15 @@
     background: #5c5c5c;
 }
 
+@media only screen(max-width: 600px) {
+    #main-title {
+        font-size: 30pt;
+    }
+    #main-title span {
+        font-size: 10pt;
+    }
+}
+
 * {
     padding: 0; margin: 0;
     box-sizing: border-box;
